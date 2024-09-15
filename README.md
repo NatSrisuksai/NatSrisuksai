@@ -13,7 +13,7 @@ Welcome to my GitHub profile! 🌟
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,js,python,java)
+![Languages](https://skillicons.dev/icons?i=c,js,python,java,sql,php,html)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,angular,next,html,css,tailwind)
