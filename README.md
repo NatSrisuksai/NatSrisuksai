@@ -13,16 +13,16 @@ Welcome to my GitHub profile! 🌟
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,js,python,java,sql,php,html)
+![Languages](https://skillicons.dev/icons?i=c,js,python,java,php)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,angular,next,html,css,tailwind)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css,tailwind)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=aws,azure,django,flask,docker,fastapi&perline=3)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=fastapi&perline=3)](https://skillicons.dev)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,bitbucket,jira)
+![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,postgres,postman)
 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,markdown,netlify,vercel,vscode,figma,,githubactions,gitlab)
