@@ -6,9 +6,8 @@ Welcome to my GitHub profile! 🌟
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatSrisuksai&show_icons=true&theme=cobalt)
 
 ## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/jacobsomer)
-- [X](https://x.com/jacobsomer)
-- [Personal Website](https://www.jacobsomer.com)
+- [LinkedIn](https://www.linkedin.com/in/nat-srisuksai-1543832b5/)
+
 
 ## Skills
 
