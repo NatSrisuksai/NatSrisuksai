@@ -17,7 +17,7 @@ Welcome to my GitHub profile! 🌟
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css,tailwind)
-
+  
 #### Backend Technologies
 [![Backend Technologies](https://skillicons.dev/icons?i=fastapi&perline=3)](https://skillicons.dev)
 
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! 🌟
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,postgres,postman)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,markdown,netlify,vercel,vscode,figma,,githubactions,gitlab)
+![Others](https://skillicons.dev/icons?i=git,github,vercel,vscode,figma)
 
 
 
